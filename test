@@ -1,0 +1,41 @@
+{
+   "bossSpriteImageUrl":"https://i.imgur.com/7DZKCLo.png",
+   "bossSpriteGifUrl":"https://raw.githubusercontent.com/iorin1024/used-songs-in-austale-/main/former%20trust%20trio%20animation%202.gif",
+   "bossSpriteSizeX":900,
+   "bossSpriteSizeY":750,
+   "boneSpriteType1ImageUrl":"",
+   "boneSpriteType1SizeX":100,
+   "boneSpriteType1SizeY":100,
+   "gasterSpriteImageUrl":"",
+   "gasterSpriteSizeX":60,
+   "gasterSpriteSizeY":70,
+   "backgroundSongUrl":"https://raw.githubusercontent.com/iorin1024/used-songs-in-austale-/main/y2mate.com%20-%20Former%20trust%20trio%20Phase%201%20three%20strikes%20your%20out%20V3.mp3",
+   "bossVoiceUrl":"",
+   "bossSpriteGifPos":{
+      "x":0.05,
+      "y":2.6
+   },
+   "bossSpriteGifScale":{
+      "x":1.4,
+      "y":1.4
+}
+    "bgEnable": "true",
+    "bgImageUrl": "", 
+    "bgHexColor": "#268076", 
+    "bgFade": "true", 
+    "bgPos":{
+       "x":0.69,
+       "y":-1.55
+    },
+    "bgScale":{
+       "x":1,
+       "y":1
+    },
+    "bgParticleEnable": "true",
+    "bgParticleType": "0",
+    "bgParticleHexColor": "#ffffff",
+    "bgParticlePos":{
+       "x":0.7560001,
+       "y":-3.249999
+    }
+}
